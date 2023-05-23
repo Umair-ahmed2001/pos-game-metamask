@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_API_KEY,
-    authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-    projectId: process.env.REACT_APP_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_APP_ID,
+  apiKey: "AIzaSyArNubluzm1IXMakcJSwejYy5e0OIRP9jM",
+  authDomain: "multiplayer-game-26ef5.firebaseapp.com",
+  projectId: "multiplayer-game-26ef5",
+  storageBucket: "multiplayer-game-26ef5.appspot.com",
+  messagingSenderId: "63334930799",
+  appId: "1:63334930799:web:c3432af4a11d7dc762309a",
   };
 
 export default firebaseConfig;
